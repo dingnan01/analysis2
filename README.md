@@ -1,2 +1,2 @@
-# mathematics
-contains homework, research materials, and important notes
+# analysis
+contains homework, course materials, and important notes
